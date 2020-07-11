@@ -14,7 +14,7 @@ class _BreakingBadState extends State<BreakingBad> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.lightGreen,
+          backgroundColor: Colors.black,
           title: Center(
             child: Text('Breaking Bad'),
           ),
